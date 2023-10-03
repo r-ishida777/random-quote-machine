@@ -38,7 +38,9 @@ function App() {
           </NewButton>
         </Buttons>
       </QuoteBox>
-      <Footer href="https://www.yahoo.co.jp">by Ryosuke</Footer>
+      <Footer href="https://github.com/r-ishida777/random-quote-machine">
+        by Ryosuke
+      </Footer>
     </Container>
   );
 }
