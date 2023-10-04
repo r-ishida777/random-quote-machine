@@ -15,8 +15,7 @@ export const colors = [
 
 export const quotes = [
   {
-    quote:
-      "Life isn窶冲 about getting and having, it窶冱 about giving and being.",
+    quote: "Life isn’t about getting and having, it’s about giving and being.",
     author: "Kevin Kruse",
   },
   {
@@ -29,7 +28,7 @@ export const quotes = [
   },
   {
     quote:
-      "Two roads diverged in a wood, and I窶祢 took the one less traveled by, And that has made all the difference.",
+      "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.",
     author: "Robert Frost",
   },
   {
@@ -37,12 +36,12 @@ export const quotes = [
     author: "Florence Nightingale",
   },
   {
-    quote: "You miss 100% of the shots you don窶冲 take.",
+    quote: "You miss 100% of the shots you don’t take.",
     author: "Wayne Gretzky",
   },
   {
     quote:
-      "I窶况e missed more than 9000 shots in my career. I窶况e lost almost 300 games. 26 times I窶况e been trusted to take the game winning shot and missed. I窶况e failed over and over and over again in my life. And that is why I succeed.",
+      "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
     author: "Michael Jordan",
   },
   {
@@ -63,8 +62,7 @@ export const quotes = [
     author: "Kevin Kruse",
   },
   {
-    quote:
-      "Life is what happens to you while you窶决e busy making other plans.",
+    quote: "Life is what happens to you while you’re busy making other plans.",
     author: "John Lennon",
   },
   {
@@ -73,7 +71,7 @@ export const quotes = [
   },
   {
     quote:
-      "Twenty years from now you will be more disappointed by the things that you didn窶冲 do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
+      "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
     author: "Mark Twain",
   },
   {
@@ -82,7 +80,7 @@ export const quotes = [
   },
   {
     quote:
-      "The most common way people give up their power is by thinking they don窶冲 have any.",
+      "The most common way people give up their power is by thinking they don’t have any.",
     author: "Alice Walker",
   },
   {
@@ -104,11 +102,11 @@ export const quotes = [
   },
   {
     quote:
-      "Your time is limited, so don窶冲 waste it living someone else窶冱 life.",
+      "Your time is limited, so don’t waste it living someone else’s life.",
     author: "Steve Jobs",
   },
   {
-    quote: "Winning isn窶冲 everything, but wanting to win is.",
+    quote: "Winning isn’t everything, but wanting to win is.",
     author: "Vince Lombardi",
   },
   {
@@ -128,7 +126,7 @@ export const quotes = [
   },
   {
     quote:
-      "I窶况e learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
     author: "Maya Angelou",
   },
   {
@@ -136,8 +134,7 @@ export const quotes = [
     author: "Jim Rohn",
   },
   {
-    quote:
-      "Whether you think you can or you think you can窶冲, you窶决e right.",
+    quote: "Whether you think you can or you think you can’t, you’re right.",
     author: "Henry Ford",
   },
   {
@@ -156,16 +153,16 @@ export const quotes = [
   },
   {
     quote:
-      "People often say that motivation doesn窶冲 last. Well, neither does bathing.  That窶冱 why we recommend it daily.",
+      "People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily.",
     author: "Zig Ziglar",
   },
   {
-    quote: "Life shrinks or expands in proportion to one窶冱 courage.",
+    quote: "Life shrinks or expands in proportion to one’s courage.",
     author: "Anais Nin",
   },
   {
     quote:
-      "If you hear a voice within you say 窶忱ou cannot paint,窶� then by all means paint and that voice will be silenced.",
+      "If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.",
     author: "Vincent Van Gogh",
   },
   {
@@ -204,11 +201,11 @@ export const quotes = [
     author: " Ancient Indian Proverb",
   },
   {
-    quote: "Believe you can and you窶决e halfway there.",
+    quote: "Believe you can and you’re halfway there.",
     author: "Theodore Roosevelt",
   },
   {
-    quote: "Everything you窶况e ever wanted is on the other side of fear.",
+    quote: "Everything you’ve ever wanted is on the other side of fear.",
     author: "George Addair",
   },
   {
@@ -218,7 +215,7 @@ export const quotes = [
   },
   {
     quote:
-      "Teach thy tongue to say, 窶廬 do not know,窶� and thous shalt progress.",
+      "Teach thy tongue to say, “I do not know,” and thous shalt progress.",
     author: "Maimonides",
   },
   {
@@ -227,7 +224,7 @@ export const quotes = [
   },
   {
     quote:
-      "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down 窶鷲appy窶�.  They told me I didn窶冲 understand the assignment, and I told them they didn窶冲 understand life.",
+      "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
     author: "John Lennon",
   },
   {
@@ -264,7 +261,7 @@ export const quotes = [
   },
   {
     quote:
-      "If you窶决e offered a seat on a rocket ship, don窶冲 ask what seat! Just get on.",
+      "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
     author: "Sheryl Sandberg",
   },
   {
@@ -278,7 +275,7 @@ export const quotes = [
   },
   {
     quote:
-      "You can窶冲 fall if you don窶冲 climb.  But there窶冱 no joy in living your whole life on the ground.",
+      "You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground.",
     author: "Unknown",
   },
   {
@@ -317,11 +314,11 @@ export const quotes = [
   },
   {
     quote:
-      "What窶冱 money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+      "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
     author: "Bob Dylan",
   },
   {
-    quote: "I didn窶冲 fail the test. I just found 100 ways to do it wrong.",
+    quote: "I didn’t fail the test. I just found 100 ways to do it wrong.",
     author: "Benjamin Franklin",
   },
   {
@@ -376,7 +373,7 @@ export const quotes = [
   },
   {
     quote:
-      "The battles that count aren窶冲 the ones for gold medals. The struggles within yourself窶鍍he invisible battles inside all of us窶鍍hat窶冱 where it窶冱 at.",
+      "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
     author: "Jesse Owens",
   },
   {
@@ -385,7 +382,7 @@ export const quotes = [
   },
   {
     quote:
-      "I have learned over the years that when one窶冱 mind is made up, this diminishes fear.",
+      "I have learned over the years that when one’s mind is made up, this diminishes fear.",
     author: "Rosa Parks",
   },
   {
@@ -394,7 +391,7 @@ export const quotes = [
   },
   {
     quote:
-      "If you look at what you have in life, you窶冤l always have more. If you look at what you don窶冲 have in life, you窶冤l never have enough.",
+      "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
     author: "Oprah Winfrey",
   },
   {
@@ -403,8 +400,7 @@ export const quotes = [
     author: "Dalai Lama",
   },
   {
-    quote:
-      "You can窶冲 use up creativity.  The more you use, the more you have.",
+    quote: "You can’t use up creativity.  The more you use, the more you have.",
     author: "Maya Angelou",
   },
   {
@@ -422,7 +418,7 @@ export const quotes = [
   },
   {
     quote:
-      "If you do what you窶况e always done, you窶冤l get what you窶况e always gotten.",
+      "If you do what you’ve always done, you’ll get what you’ve always gotten.",
     author: "Tony Robbins",
   },
   {
@@ -431,12 +427,12 @@ export const quotes = [
   },
   {
     quote:
-      "It窶冱 your place in the world; it窶冱 your life. Go on and do all you can with it, and make it the life you want to live.",
+      "It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live.",
     author: "Mae Jemison",
   },
   {
     quote:
-      "You may be disappointed if you fail, but you are doomed if you don窶冲 try.",
+      "You may be disappointed if you fail, but you are doomed if you don’t try.",
     author: "Beverly Sills",
   },
   {
@@ -449,7 +445,7 @@ export const quotes = [
   },
   {
     quote:
-      "The question isn窶冲 who is going to let me; it窶冱 who is going to stop me.",
+      "The question isn’t who is going to let me; it’s who is going to stop me.",
     author: "Ayn Rand",
   },
   {
@@ -459,7 +455,7 @@ export const quotes = [
   },
   {
     quote:
-      "It窶冱 not the years in your life that count. It窶冱 the life in your years.",
+      "It’s not the years in your life that count. It’s the life in your years.",
     author: "Abraham Lincoln",
   },
   {
@@ -472,8 +468,8 @@ export const quotes = [
     author: "Benjamin Franklin",
   },
   {
-    quote: "Nothing is impossible, the word itself says, 窶廬窶冦 possible!窶�",
-    author: "窶鄭udrey Hepburn",
+    quote: "Nothing is impossible, the word itself says, “I’m possible!”",
+    author: "–Audrey Hepburn",
   },
   {
     quote: "The only way to do great work is to love what you do.",
